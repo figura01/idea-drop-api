@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "backend api for idea drop project",
   "main": "server.ts",
-  "type": "module",
   "scripts": {
     "start": "node dist/server.js",
     "build": "tsc"
