@@ -1,5 +1,7 @@
 .env
 nodes_modules
+/nodes_modules
+./nodes_modules
 dist
 .DS_Store
 .vscode
