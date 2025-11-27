@@ -20,7 +20,8 @@
     "jose": "^6.1.2",
     "mongoose": "^8.16.0",
     "tsc": "^2.0.4",
-    "tsx": "^4.20.6"
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.10",
